@@ -1,3 +1,22 @@
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 700;
+  font-family: 'Poppins', sans-serif; }
 
+body {
+  font-family: 'Open Sans', sans-serif; }
+
+.logo {
+  width: 96px;
+  height: 15.6px; }
+
+.link-nav {
+  border: 1px #ff52bf solid;
+  border-radius: 30px;
+  color: #ff52bf;
+  padding: 5px 15px 5px 15px;
+  font-weight: 400;
+  font-size: 12px;
+  background: transparent;
+  box-shadow: 1px 1px 1px rgba(255, 82, 191, 0.3); }
 
 /*# sourceMappingURL=main-style.css.map */

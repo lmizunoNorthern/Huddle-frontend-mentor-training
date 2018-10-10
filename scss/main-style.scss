@@ -1,0 +1,34 @@
+$primary: hsl(322, 100%, 66%);
+$neutral: hsl(192, 100%, 9%);
+$neutral2: hsl(207, 100%, 98%);
+
+
+
+h1, h2, h3, h4, h5, h6{
+  font-weight: 700;
+  font-family: 'Poppins', sans-serif;
+}
+
+body{
+  font-family: 'Open Sans', sans-serif;
+  //- Weights: 400, 600, 700
+
+}
+
+nav{
+
+}
+.logo{
+  width: 96px;
+  height: 15.6px;
+}
+.link-nav{
+  border: 1px #ff52bf solid;
+  border-radius: 30px;
+  color: #ff52bf;
+  padding: 5px 15px 5px 15px;
+  font-weight: 400;
+  font-size: 12px;
+  background: transparent;
+  box-shadow: 1px 1px 1px rgba(255, 82, 191, 0.3);
+}
