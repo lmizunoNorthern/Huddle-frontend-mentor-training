@@ -163,3 +163,34 @@ body{
 
   }
 }
+
+//================footer======================
+
+#footer{
+  overflow: hidden;
+  padding: 0;
+  color: #fff;
+
+}
+.inner-footer{
+  background-color: $neutral;
+  padding: 2rem;
+
+}
+.input-footer{
+  width: 100%;
+  border: none;
+  border-radius: 5px;
+}
+.newsl_button{
+  color: #fff;
+  width: 100%;
+  background-color: $primary;
+  border: none;
+  border-radius: 5px;
+  padding: 10px;
+  p{
+    margin: 0;
+  }
+}
+

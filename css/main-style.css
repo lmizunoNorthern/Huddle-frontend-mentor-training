@@ -116,4 +116,28 @@ body {
     .main-bot .main-even-title {
       margin-top: 8rem; } }
 
+#footer {
+  overflow: hidden;
+  padding: 0;
+  color: #fff; }
+
+.inner-footer {
+  background-color: #00252e;
+  padding: 2rem; }
+
+.input-footer {
+  width: 100%;
+  border: none;
+  border-radius: 5px; }
+
+.newsl_button {
+  color: #fff;
+  width: 100%;
+  background-color: #ff52bf;
+  border: none;
+  border-radius: 5px;
+  padding: 10px; }
+  .newsl_button p {
+    margin: 0; }
+
 /*# sourceMappingURL=main-style.css.map */
