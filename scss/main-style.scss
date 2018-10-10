@@ -1,26 +1,61 @@
+//==============colors======================
 $primary: hsl(322, 100%, 66%);
 $neutral: hsl(192, 100%, 9%);
 $neutral2: hsl(207, 100%, 98%);
+$background-main: #F6FBFF;
+//=========variables=================
+$tablet: 768px;
+$tablet-lg: 991px;
+$desktop: 1200px;
+//==========Typography===================
 
 
-
-h1, h2, h3, h4, h5, h6{
-  font-weight: 700;
-  font-family: 'Poppins', sans-serif;
-}
 
 body{
   font-family: 'Open Sans', sans-serif;
   //- Weights: 400, 600, 700
+  h1, h2, h3, h4, h5, h6{
+    font-weight: 700;
+    font-family: 'Poppins', sans-serif;
+  }
+  h1{
+    font-size: 24px;
+    font-weight: 700;
+    @media  (min-width: $tablet-lg){
+      font-size: 48px;
+    }
+    @media  (min-width: $tablet){
+      font-size: 40px;
+    }
+  }
+  p{
+    font-size: 14px;
+    font-weight: 600;
+    @media  (min-width: $tablet){
+      font-size: 18px;
+    }
+  }
+  a{
+    text-decoration: none;
 
+  }
+  a:hover{
+    text-decoration: none;
+    color: inherit;
+  }
 }
+//=============Styles=====================
+//=====nav=====
+#nav{
+  margin-top: 2rem;
 
-nav{
-
+  @media (min-width: $tablet-lg) {
+    margin-top: 4rem;
+    padding: 0 3rem 0 3rem;
+  }
 }
 .logo{
-  width: 96px;
-  height: 15.6px;
+  width: 100% ;
 }
 .link-nav{
   border: 1px #ff52bf solid;
@@ -31,4 +66,100 @@ nav{
   font-size: 12px;
   background: transparent;
   box-shadow: 1px 1px 1px rgba(255, 82, 191, 0.3);
+
+  @media  (min-width: $tablet){
+    font-size: 16px;
+  }
+}
+//====================header======================
+#header{
+  margin: 2rem 0 2rem 0;
+  @media  (min-width: $tablet){
+    margin: 9rem 0 1rem 0;
+  }
+}
+.link-header{
+  border-radius: 42px;
+  padding: 25px;
+  background-color: $primary;
+  p{
+    margin: 0;
+    text-align: center;
+    color: $neutral2;
+  }
+  box-shadow: 0 4px 10px rgba(0,0,0, 0.3);
+}
+.screen-mockup{
+  width: 100%;
+}
+.stats-header{
+  font-size: 5em;
+  font-weight: 700;
+  text-align: center;
+  margin: 0;
+
+  @media  (min-width: $desktop){
+    font-size: 6em;
+  }
+}
+.typeOfStats-header{
+  color: #aaaaaa;
+  font-size: 18px;
+  text-align: center;
+
+}
+
+//==========================main==================
+#main{
+  overflow: hidden;
+
+}
+.waves-main{
+  width: 100%;
+}
+.main-odd{
+  background-color: $background-main;
+  @media  (min-width: $tablet-lg){
+    padding: 2rem 5rem 6rem 5rem;
+  }
+  .main-odd-title{
+    @media  (min-width: $tablet-lg){
+      &:nth-child(1){
+        margin: 12rem 0 1rem 0;
+      }
+    }
+  }
+  .main-odd-title2{
+    @media  (min-width: $tablet-lg){
+      &:nth-child(1){
+        margin: 10rem 0 1rem 0;
+      }
+    }
+  }
+}
+.main-even{
+  margin: 2rem 0 2rem 0 ;
+  @media  (min-width: $tablet-lg){
+    padding: 10rem 5rem 5rem 5rem;
+
+  }
+  .main-even-title{
+    @media  (min-width: $tablet-lg){
+      margin-top: 8rem;
+    }
+
+  }
+}
+.main-bot{
+  margin: 2rem 0 2rem 0 ;
+  @media  (min-width: $tablet-lg){
+    padding: 8rem 5rem 5rem 5rem;
+
+  }
+  .main-even-title{
+    @media  (min-width: $tablet-lg){
+      margin-top: 8rem;
+    }
+
+  }
 }
