@@ -37,6 +37,12 @@ body {
     box-shadow: 0 10px 15px rgba(0, 0, 0, 0.3); }
   .link:active {
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3); }
+  @media (min-width: 991px) {
+    .link {
+      padding: 25px 50px 25px 50px; }
+      .link p {
+        font-size: 20px;
+        margin-bottom: 0; } }
 
 #nav {
   margin-top: 2rem; }
@@ -59,7 +65,8 @@ body {
   box-shadow: 1px 1px 1px rgba(255, 82, 191, 0.3); }
   @media (min-width: 768px) {
     .link-nav {
-      font-size: 16px; } }
+      font-size: 16px;
+      padding: 5px 30px 5px 30px; } }
 
 #header {
   margin: 2rem 0 2rem 0; }

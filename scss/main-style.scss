@@ -17,6 +17,13 @@
   &:active{
     box-shadow: 0 2px 8px rgba(0,0,0, 0.3);
   }
+  @media  (min-width: $tablet-lg){
+    p{
+      font-size: 20px;
+      margin-bottom: 0;
+    }
+    padding: 25px 50px 25px 50px;
+  }
 }
 //=============Styles=====================
 //=====nav=====
@@ -43,6 +50,7 @@
 
   @media  (min-width: $tablet){
     font-size: 16px;
+    padding: 5px 30px 5px 30px;
   }
 }
 //====================header======================
