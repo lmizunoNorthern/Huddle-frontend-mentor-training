@@ -48,9 +48,13 @@
   background: transparent;
   box-shadow: 1px 1px 1px rgba(255, 82, 191, 0.3);
 
+
+
+
   @media  (min-width: $tablet){
     font-size: 16px;
     padding: 5px 30px 5px 30px;
+    line-height: 30px;
   }
 }
 //====================header======================
