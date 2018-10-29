@@ -12,8 +12,8 @@
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css"
           integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
     <link href="https://unpkg.com/ionicons@4.4.4/dist/css/ionicons.min.css" rel="stylesheet">
-
-
+    <link rel="shortcut icon" type="image/PNG" href="images/faviconPNG.PNG">
+    <meta name="theme-color" content="#ff52bf">
     <title>Huddle</title>
 </head>
 <body>
@@ -23,7 +23,10 @@
             <img class="logo" src="images/logo.svg"
                  alt="Logo Huddle. "/>
         </div>
-        <div class="col pr-md-5 d-flex justify-content-end"><a class="text-center link-nav" href="#">Try It Free</a>
+        <div class="col pr-md-5 d-flex justify-content-end">
+            <a class="link-nav d-flex align-items-center" href="#">
+                <span class="text-center">Try It Free</span>
+            </a>
         </div>
     </div>
 </div>
@@ -81,7 +84,7 @@
                  src="images/illustration-grow-together.svg"/>
         </div>
         <div class="col-10 col-md-5 mx-auto mt-md-0 order-2 order-md-1 ">
-            <h1 class="text-center text-md-left main-odd-title">Grow Together</h1>
+            <h2 class="text-center text-md-left main-odd-title">Grow Together</h2>
             <p class="text-center text-md-left">Generate meaningful discussions with your audience and build a strong,
                 loyal community. Think of the insightful conversations you miss out on with a feedback form.</p>
         </div>
@@ -94,7 +97,7 @@
                  src="images/illustration-flowing-conversation.svg"/>
         </div>
         <div class="col-10 col-md-5 mx-auto">
-            <h1 class="text-center text-md-left main-even-title">Flowing Conversations </h1>
+            <h2 class="text-center text-md-left main-even-title">Flowing Conversations </h2>
             <p class="text-center text-md-left">You wouldn't paginate a conversation in real life,
                 so why do it online? Our threads have just-in-time loading for a more natural flow.
             </p>
@@ -109,7 +112,7 @@
                  src="images/illustration-your-users.svg"/>
         </div>
         <div class="col-10 col-md-5 mx-auto  order-2 order-md-1">
-            <h1 class="text-center text-md-left main-odd-title2">Your Users </h1>
+            <h2 class="text-center text-md-left main-odd-title2">Your Users </h2>
             <p class="text-center text-md-left">It takes no time at all to integrate Huddle with your app's
                 authentication solution.
                 This means, once signed in to your app, your users can start chatting immediately.
@@ -121,9 +124,9 @@
     </div>
     <div class="row main-bot">
         <div class="col-10  col-md-8 mx-auto">
-            <h1 class="text-center">
+            <h2 class="text-center">
                 Ready To Build Your Community?
-            </h1>
+            </h2>
         </div>
         <div class="w-100">
 
@@ -148,16 +151,17 @@
         <div class="col-12 col-sm-10 col-md-5 order-1 order-md-2">
             <div class="row py-xl-3">
                 <div class="col-12 col-sm-10 col-md-8 py-xl-2">
-                    <h5>
+                    <h3>
                         NEWSLETTER
-                    </h5>
+                    </h3>
                     <p>To recieve tips on how to grow your community, sign up to our weekly newsletter. We’ll never send
                         you spam or pass on your email address</p>
                 </div>
                 <div class="col-12">
                     <div class="row d-md-flex align-content-md-stretch">
                         <div class="col-12 col-md-7 col-lg-8">
-                            <input type="email" class="input-footer">
+                            <label class="input-footer" for="email-news" title="Email">
+                                <input id="email-news" type="email" class="input-footer"></label>
                         </div>
                         <div class="col-6 col-md-5 col-lg-4 ml-lg-auto mt-2 mt-md-0">
                             <button class="newsl_button">Subscribe</button>
@@ -181,17 +185,25 @@
             </div>
             <div class="row py-xl-5">
                 <div class="col-12">
-                    <p><img alt="" src="images/icon-phone.svg"/> Phone: +1-543-123-4567</p>
+                    <a href="tel:1.543.123.4567">
+                        <p><img alt="" src="images/icon-phone.svg"/> Phone: +1-543-123-4567</p>
+                    </a>
                 </div>
                 <div class="col-12">
-                    <p><img alt="" src="images/icon-email.svg"/> example@complany.com</p>
+                    <a href="mailto:example@complany.com">
+                        <p><img alt="" src="images/icon-email.svg"/> example@complany.com</p>
+                    </a>
                 </div>
                 <div class="col-10 col-md-6">
-
-                    <i class="fab fa-facebook-square social-media"></i>
-                    <i class="fab fa-instagram social-media"></i>
-                    <i class="fab fa-twitter-square social-media"></i>
-
+                    <a href="https://www.facebook.com/" target="_blank">
+                        <em class="fab fa-facebook-square social-media  "></em>
+                    </a>
+                    <a href="https://www.instagram.com/?hl=en" target="_blank">
+                        <em class="fab fa-instagram social-media"></em>
+                    </a>
+                    <a href="https://twitter.com/?lang=en" target="_blank">
+                        <em class="fab fa-twitter-square social-media"></em>
+                    </a>
                 </div>
             </div>
         </div>

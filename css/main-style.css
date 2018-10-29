@@ -19,7 +19,8 @@ body {
       body p {
         font-size: 18px; } }
   body a {
-    text-decoration: none; }
+    text-decoration: none;
+    color: white; }
   body a:hover {
     text-decoration: none;
     color: inherit; }
@@ -204,11 +205,13 @@ body {
       font-size: 18px; } }
 
 .social-media {
+  color: white;
   font-size: 2rem; }
   @media (min-width: 768px) {
     .social-media {
       margin: 10px;
-      height: 50px; } }
+      height: 50px;
+      color: white; } }
 
 @media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) {
   .main-images {

@@ -25,6 +25,8 @@
     padding: 25px 50px 25px 50px;
   }
 }
+
+
 //=============Styles=====================
 //=====nav=====
 #nav{
@@ -223,12 +225,16 @@
 
 }
 .social-media{
+  color: white;
   font-size: 2rem;
+
   @media  (min-width: $tablet ){
     margin: 10px;
     height: 50px;
-
+    color: white;
   }
+
+
 }
 
 @media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) {
