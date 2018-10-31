@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="883f29c3-c2d2-449a-987f-103527ef12ad" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/images/favicon.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/faviconPNG.PNG" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/adae41eb29570d7900f489c8d3a77439037c3a49/_utility.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/.sass-cache/adae41eb29570d7900f489c8d3a77439037c3a49/_utility.scssc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/adae41eb29570d7900f489c8d3a77439037c3a49/main-style.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/.sass-cache/adae41eb29570d7900f489c8d3a77439037c3a49/main-style.scssc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/main-style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main-style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/main-style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/main-style.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/_utility.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/_utility.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/main-style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/main-style.scss" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,7 +14,7 @@
     <session id="-2142097321">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="5" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.7" value="1" />
@@ -243,12 +234,12 @@
       <workItem from="1539263856792" duration="787000" />
       <workItem from="1539264887289" duration="20680000" />
       <workItem from="1539350112021" duration="2872000" />
-      <workItem from="1540833392836" duration="5302000" />
+      <workItem from="1540833392836" duration="6290000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="53072000" />
+    <option name="totallyTimeSpent" value="54060000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -261,7 +252,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.12313433" />
