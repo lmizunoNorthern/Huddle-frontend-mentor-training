@@ -21,8 +21,8 @@
     <div class="row my-4 my-md-5">
         <div class="col-5 col-md-3 col-lg-2 pl-md-5 mr-auto">
             <a href="#">
-            <img class="logo" src="images/logo.svg"
-                 alt="Logo Huddle. "/>
+                <img class="logo" src="images/logo.svg"
+                     alt="Logo Huddle. "/>
             </a>
         </div>
         <div class="col pr-md-5 d-flex justify-content-end">
@@ -160,25 +160,25 @@
                         you spam or pass on your email address</p>
                 </div>
                 <div class="col-12">
-                    <div class="row d-md-flex align-content-md-stretch">
-                        <div class="col-12 col-md-7 col-lg-8">
-                            <label class="input-footer" for="email-news" title="Email">
-                                <input id="email-news" type="email" class="input-footer"></label>
-                        </div>
-                        <div class="col-6 col-md-5 col-lg-4 ml-lg-auto mt-2 mt-md-0">
-                            <button type="submit" class="newsl_button">Subscribe</button>
-                        </div>
-                    </div>
+                        <form method="get" class="row d-md-flex align-content-md-stretch">
+                            <div class="col-12 col-md-7 col-lg-8">
+                                <label class="input-footer" for="email-news" title="Email">
+                                    <input id="email-news" type="email" class="input-footer"></label>
+                            </div>
+                            <div class="col-6 col-md-5 col-lg-4 ml-lg-auto mt-2 mt-md-0">
+                                <button type="submit" class="newsl_button">Subscribe</button>
+                            </div>
+                        </form>
                 </div>
-
-
             </div>
         </div>
         <div class="col-12 col-sm-10 mt-5 mt-md-0 col-md-5 order-2 order-md-1">
             <div class="row py-xl-3">
                 <div class="col-8 col-sm-7 col-md-5  ">
+                   <a href="#">
                     <img class="w-100 footer_logo" alt="Website logo, huddle."
                          src="images/logo-black-and-white.svg"/>
+                   </a>
                 </div>
                 <div class="col-12">
                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi consectetur dolore ipsa neque
@@ -197,19 +197,25 @@
                     </a>
                 </div>
                 <div class="col-10 col-md-8">
-                    <a href="https://www.facebook.com/" target="_blank">
+                    <a href="https://www.facebook.com/" target="_blank" title="Facebook">
                         <em class="fab fa-facebook-square social-media mr-1 mr-md-3 "></em>
                     </a>
-                    <a href="https://www.instagram.com/?hl=en" target="_blank">
+                    <a href="https://www.instagram.com/?hl=en" target="_blank" title="Instagram">
                         <em class="fab fa-instagram social-media mx-1 mx-md-3"></em>
                     </a>
-                    <a href="https://twitter.com/?lang=en" target="_blank">
+                    <a href="https://twitter.com/?lang=en" target="_blank" title="Twitter">
                         <em class="fab fa-twitter-square social-media mx-1 mx-md-3"></em>
                     </a>
                 </div>
             </div>
         </div>
     </div>
+</div>
+
+<div id="sticky-arrow">
+    <a href="#" title="Go to: top of the page" >
+    <i class="fas fa-arrow-up arrow-up"></i>
+    </a>
 </div>
 <script src="js/jq-min.js"></script>
 <script src="js/bootstrap.bundle.js"></script>
