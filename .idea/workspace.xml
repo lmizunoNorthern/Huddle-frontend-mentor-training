@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="883f29c3-c2d2-449a-987f-103527ef12ad" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/.bin/atob" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/.bin/atob.cmd" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/.bin/browser-sync" beforeDir="false" />
@@ -122,7 +123,7 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="css" value="1" />
-          <entry key="gitignore" value="1" />
+          <entry key="gitignore" value="2" />
           <entry key="html" value="1" />
           <entry key="js" value="3" />
           <entry key="lock" value="1" />
@@ -137,7 +138,7 @@
           <entry key="HTML" value="1" />
           <entry key="JavaScript" value="3" />
           <entry key="Markdown" value="3" />
-          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="PLAIN_TEXT" value="2" />
           <entry key="SCSS" value="3" />
           <entry key="SVG" value="39" />
           <entry key="yarn.lock" value="1" />
@@ -145,7 +146,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="gitignore" value="15" />
+          <entry key="gitignore" value="28" />
           <entry key="html" value="4472" />
           <entry key="js" value="767" />
           <entry key="md" value="1" />
@@ -158,7 +159,7 @@
           <entry key="HTML" value="4472" />
           <entry key="JavaScript" value="767" />
           <entry key="Markdown" value="1" />
-          <entry key="PLAIN_TEXT" value="15" />
+          <entry key="PLAIN_TEXT" value="28" />
           <entry key="SCSS" value="3213" />
           <entry key="SVG" value="368" />
         </counts>
@@ -167,7 +168,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="327">
@@ -177,6 +178,15 @@
                 <element signature="n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#div#1;n#div#0;n#div#1;n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="13" selection-start-column="13" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -261,9 +271,9 @@
         <option value="$PROJECT_DIR$/images/illustration-your-users.svg" />
         <option value="$PROJECT_DIR$/images/favicon.svg" />
         <option value="$PROJECT_DIR$/scss/_utility.scss" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/scss/main-style.scss" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -350,12 +360,12 @@
       <workItem from="1539350112021" duration="2872000" />
       <workItem from="1540833392836" duration="6290000" />
       <workItem from="1541615838894" duration="5126000" />
-      <workItem from="1541687221904" duration="4240000" />
+      <workItem from="1541687221904" duration="4939000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="64797000" />
+    <option name="totallyTimeSpent" value="65496000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -508,13 +518,6 @@
     <entry file="file://$PROJECT_DIR$/yarn.lock">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="13" selection-start-column="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/scss/main-style.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="292">
@@ -531,6 +534,13 @@
             <element signature="n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#1;n#div#0;n#div#1;n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
         </state>
       </provider>
     </entry>
