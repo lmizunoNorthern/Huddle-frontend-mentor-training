@@ -1,107 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="883f29c3-c2d2-449a-987f-103527ef12ad" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.bin/atob" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.bin/atob.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.bin/browser-sync" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.bin/browser-sync.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.bin/dev-ip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.bin/dev-ip.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.bin/lt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.bin/lt.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.bin/mime" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.bin/mime.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.bin/semver" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.bin/semver.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.bin/throttleproxy" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.bin/throttleproxy.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.bin/window-size" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.bin/window-size.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.yarn-integrity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/accepts/HISTORY.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/accepts/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/accepts/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/accepts/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/accepts/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/after/.npmignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/after/.travis.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/after/LICENCE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/after/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/after/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/after/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/after/test/after-test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/ansi-regex/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/ansi-regex/license" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/ansi-regex/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/ansi-regex/readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/ansi-styles/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/ansi-styles/license" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/ansi-styles/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/ansi-styles/readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/anymatch/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/anymatch/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/anymatch/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/anymatch/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/arr-diff/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/arr-diff/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/arr-diff/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/arr-diff/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/arr-flatten/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/arr-flatten/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/arr-flatten/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/arr-flatten/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/arr-union/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/arr-union/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/arr-union/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/arr-union/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/array-unique/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/array-unique/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/array-unique/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/array-unique/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/arraybuffer.slice/.npmignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/arraybuffer.slice/LICENCE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/arraybuffer.slice/Makefile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/arraybuffer.slice/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/arraybuffer.slice/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/arraybuffer.slice/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/arraybuffer.slice/test/slice-buffer.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/assign-symbols/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/assign-symbols/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/assign-symbols/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/assign-symbols/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/async-each-series/Readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/async-each-series/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/async-each-series/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/async-each/.npmignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/async-each/CHANGELOG.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/async-each/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/async-each/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/async-each/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/async-limiter/.travis.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/async-limiter/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/async-limiter/coverage/coverage.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/async-limiter/coverage/lcov-report/async-throttle/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/async-limiter/coverage/lcov-report/async-throttle/index.js.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/async-limiter/coverage/lcov-report/base.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/async-limiter/coverage/lcov-report/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/async-limiter/coverage/lcov-report/prettify.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/async-limiter/coverage/lcov-report/prettify.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/async-limiter/coverage/lcov-report/sort-arrow-sprite.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/async-limiter/coverage/lcov-report/sorter.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/async-limiter/coverage/lcov.info" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/async-limiter/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/async-limiter/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/async-limiter/readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/async/CHANGELOG.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/async/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/async/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/async/dist/async.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/async/dist/async.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/async/lib/async.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/async/package.json" beforeDir="false" />
-    </list>
+    <list default="true" id="883f29c3-c2d2-449a-987f-103527ef12ad" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -360,12 +260,12 @@
       <workItem from="1539350112021" duration="2872000" />
       <workItem from="1540833392836" duration="6290000" />
       <workItem from="1541615838894" duration="5126000" />
-      <workItem from="1541687221904" duration="4939000" />
+      <workItem from="1541687221904" duration="5198000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="65496000" />
+    <option name="totallyTimeSpent" value="65755000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
